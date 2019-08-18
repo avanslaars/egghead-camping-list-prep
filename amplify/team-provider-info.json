@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "eggheadcampinglistpr-dev-20190817152834-authRole",
+            "UnauthRoleArn": "arn:aws:iam::888153712120:role/eggheadcampinglistpr-dev-20190817152834-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::888153712120:role/eggheadcampinglistpr-dev-20190817152834-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "eggheadcampinglistpr-dev-20190817152834-deployment",
+            "UnauthRoleName": "eggheadcampinglistpr-dev-20190817152834-unauthRole",
+            "StackName": "eggheadcampinglistpr-dev-20190817152834",
+            "StackId": "arn:aws:cloudformation:us-east-1:888153712120:stack/eggheadcampinglistpr-dev-20190817152834/34a43c00-c125-11e9-b5b5-123ad236a92a"
+        },
+        "categories": {
+            "auth": {
+                "eggheadcampinglistpra447395f": {}
+            }
+        }
+    }
+}
